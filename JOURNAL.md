@@ -17,3 +17,14 @@ I did a bit of research on how best to create some headphones. After about two h
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--9af708da406c724d481485b8405d8735c0304096/image.png)
   
 
+## 10/16/2025 - Printed first prototype, modified headbar and audio jack  
+
+I started by printing V0.1 of the headphones, which took about 5 hours of printing. After printing, I loosely assembled everything, and discovered several things: the headbar was too small, and the audio jack connector wouldn't be able to be fastened to the case properly (whoops!). I then took about an hour or so to fix these issues and started printing V0.2!
+Also, i discovered that the padding from my Skullcandy Hesh Evo headphones fits onto my design, which means that I'll have something I can base my padding off of!
+
+![IMG_0246.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--7a668bbdb6e5b81f713d93ddd27d640e205ace2b/IMG_0246.jpg)
+
+![IMG_0250.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5e7b41c5c5b3975c259b0a9a43b5974a72518dc/IMG_0250.jpg)
+![IMG_0249.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyMywicHVyIjoiYmxvYl9pZCJ9fQ==--15dc09bed5c26912ecc7f4e5afa4d61a47af982e/IMG_0249.jpg)
+  
+
